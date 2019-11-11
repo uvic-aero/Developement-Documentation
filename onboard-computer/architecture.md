@@ -14,3 +14,8 @@ https://drive.google.com/file/d/1-9L3rl80VjL4Lmp7yfsAlS2Z3zpNNY8o/view?usp=shari
 
 https://drive.google.com/file/d/1wDrueBEEMtolSVjhou1B9ipcNWfB7yGa/view?usp=sharing
 ![Vision](/onboard-computer/vision.png)
+
+## Ground Vehicle State Machine
+
+https://drive.google.com/file/d/1pqz92slXpC5Au6dkyP0HaEyCWW8rjCci/view?usp=sharing
+![Ground Vehicle State Machine](/onboard-computer/vehicle-state-machine.png)
